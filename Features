@@ -1,0 +1,19 @@
+🧠 Key Features
+High CMRR Differential Input Stage
+INA333 instrumentation amplifier for microvolt-level signal acquisition
+Symmetric input routing to preserve signal integrity
+Precision Analog Processing
+Active full-wave rectification for accurate EMG envelope extraction
+Peak detection using RC hold network for stable signal representation
+Event-Driven Architecture
+Comparator-based threshold detection
+Generates digital EMG_WAKE signal for external MCU (e.g., ESP32)
+Enables low-power operation (wake-on-EMG concept)
+Low-Noise PCB Design
+Optimized component placement (stage-wise layout)
+Differential signal routing
+Ground plane with stitching vias
+Decoupling and bulk capacitors for power stability
+Modular Interface
+Header-based output for easy integration with microcontrollers
+Exposed signals: INA_OUT, ABS_OUT, PEAK_OUT, EMG_WAKE
