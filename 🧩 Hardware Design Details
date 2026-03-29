@@ -1,0 +1,6 @@
+🧩 Hardware Design Details
+Input Stage: INA333 instrumentation amplifier
+Op-Amps: OPA2333 (zero-drift, low-noise)
+Comparator: TLV3691 (ultra-low-power)
+Power Supply: 3.3V single supply
+PCB: 2-layer optimized analog layout with ground copper fill and via stitching
