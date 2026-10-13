@@ -13,7 +13,7 @@ Low-Noise PCB Design
 Optimized component placement (stage-wise layout)
 Differential signal routing
 Ground plane with stitching vias
-Decoupling and bulk capacitors for power stability
+Decoupling and bulk capacitors for the  power stability
 Modular Interface
 Header-based output for easy integration with microcontrollers
 Exposed signals: INA_OUT, ABS_OUT, PEAK_OUT, EMG_WAKE
